@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inentrupo.github.io/sitemap
+Sitemap: https://inentrupo.github.io/app/sitemap
+Sitemap: https://inentrupo.github.io/assets/sitemap
+Sitemap: https://inentrupo.github.io/css/sitemap
+Sitemap: https://inentrupo.github.io/includes/sitemap
+Sitemap: https://inentrupo.github.io/item/sitemap
+Sitemap: https://inentrupo.github.io/src/sitemap
